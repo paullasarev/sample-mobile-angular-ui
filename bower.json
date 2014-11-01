@@ -1,0 +1,30 @@
+{
+  "name": "sample-mobile-angular-ui",
+  "version": "0.0.1",
+  "homepage": "https://github.com/paullasarev/sample-mobile-angular-ui",
+  "authors": [
+    "paullasarev <paullasarev@gmail.com>"
+  ],
+  "description": "sample mobile-angular-ui app",
+  "main": "app/index.html",
+  "moduleType": [
+    "globals"
+  ],
+  "keywords": [
+    "angular"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "mocha": "~2.0.1",
+    "chai": "~1.9.2",
+    "jquery": "~2.1.1",
+    "WebConsole": "*"
+  }
+}
